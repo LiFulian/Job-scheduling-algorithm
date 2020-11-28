@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1606452618 source:f:\c++Á·Ï°\c++test\main\main.cpp
+	<iostream>
+	"../menu.h"
+
+1606197051 source:f:\c++Á·Ï°\c++test\source1.cpp
+
+1606262310 f:\c++Á·Ï°\c++test\helloworld.h
+
+1606262000 source:f:\c++Á·Ï°\c++test\helloworld.cpp
+	"helloworld.h"
+	<iostream>
+
+1606458330 source:f:\c++Á·Ï°\c++test\fcfs.cpp
+	<iostream>
+	<vector>
+	"FCFS.h"
+	<stack>
+	<algorithm>
+
+1606264601 f:\c++Á·Ï°\c++test\fcfs.h
+
+1606458470 source:f:\c++Á·Ï°\c++test\menu.cpp
+	<iostream>
+	"FCFS.h"
+	"SJF.h"
+
+1606264505 f:\c++Á·Ï°\c++test\menu.h
+
+1606458056 f:\c++Á·Ï°\c++test\sjf.h
+
+1606458356 source:f:\c++Á·Ï°\c++test\sjf.cpp
+	<iostream>
+	<vector>
+	"FCFS.h"
+	<algorithm>
+
+1606567598 source:f:\c++Á·Ï°\jobschedulingalgorithm\fcfs.cpp
+	<iostream>
+	<vector>
+	"FCFS.h"
+	<algorithm>
+
+1606264601 f:\c++Á·Ï°\jobschedulingalgorithm\fcfs.h
+
+1606262000 source:f:\c++Á·Ï°\jobschedulingalgorithm\helloworld.cpp
+	"helloworld.h"
+	<iostream>
+
+1606262310 f:\c++Á·Ï°\jobschedulingalgorithm\helloworld.h
+
+1606452618 source:f:\c++Á·Ï°\jobschedulingalgorithm\main\main.cpp
+	<iostream>
+	"../menu.h"
+
+1606264505 f:\c++Á·Ï°\jobschedulingalgorithm\menu.h
+
+1606458470 source:f:\c++Á·Ï°\jobschedulingalgorithm\menu.cpp
+	<iostream>
+	"FCFS.h"
+	"SJF.h"
+
+1606458056 f:\c++Á·Ï°\jobschedulingalgorithm\sjf.h
+
+1606458356 source:f:\c++Á·Ï°\jobschedulingalgorithm\sjf.cpp
+	<iostream>
+	<vector>
+	"FCFS.h"
+	<algorithm>
+
+1606262000 source:f:\c++Á·Ï°\job-scheduling-algorithm\jobschedulingalgorithm\helloworld.cpp
+	"helloworld.h"
+	<iostream>
+
+1606262310 f:\c++Á·Ï°\job-scheduling-algorithm\jobschedulingalgorithm\helloworld.h
+
+1606452618 source:f:\c++Á·Ï°\job-scheduling-algorithm\jobschedulingalgorithm\main\main.cpp
+	<iostream>
+	"../menu.h"
+
+1606264505 f:\c++Á·Ï°\job-scheduling-algorithm\jobschedulingalgorithm\menu.h
+
+1606458470 source:f:\c++Á·Ï°\job-scheduling-algorithm\jobschedulingalgorithm\menu.cpp
+	<iostream>
+	"FCFS.h"
+	"SJF.h"
+
+1606264601 f:\c++Á·Ï°\job-scheduling-algorithm\jobschedulingalgorithm\fcfs.h
+
+1606458056 f:\c++Á·Ï°\job-scheduling-algorithm\jobschedulingalgorithm\sjf.h
+
+1606458356 source:f:\c++Á·Ï°\job-scheduling-algorithm\jobschedulingalgorithm\sjf.cpp
+	<iostream>
+	<vector>
+	"FCFS.h"
+	<algorithm>
+
