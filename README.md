@@ -8,7 +8,7 @@
   + 不能自己实现数据结构
 + 采用分离式开发，源文件与头文件分离
 + 项目目录结构
-  + ![image-20201128204830668](C:\Users\C\AppData\Roaming\Typora\typora-user-images\image-20201128204830668.png)
+  + ![directory](images\directory.png)
 + 如何导入
   + 下载仓库中的C++项目
   + 打开codeblocks选择`open an existing project`
@@ -20,4 +20,4 @@
   + 点击编译
   + 点击运行
 + 运行界面
-  + ![image-20201128210146132](C:\Users\C\AppData\Roaming\Typora\typora-user-images\image-20201128210146132.png)
+  + ![running](images\running.png)
