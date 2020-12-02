@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1606833106 source:d:\c++projects\操作系统1017\job\job\src\control.cpp
+	<iostream>
+	"../headers/control.h"
+	"../headers/global.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<memory.h>
+	<algorithm>
+	<vector>
+	<queue>
+	<fstream>
+
+1606823641 source:d:\c++projects\操作系统1017\job\job\main.cpp
+	"windows.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	".\headers\control.h"
+	".\headers\global.h"
+	".\headers\job\FCFS.h"
+	".\headers\job\SJF.h"
+	".\headers\job\HRRF.h"
+	".\headers\job\HPF.h"
+	".\headers\job\RR.h"
+
+1606649132 d:\c++projects\操作系统1017\job\job\headers\control.h
+	"./global.h"
+
+1606823300 source:d:\c++projects\操作系统1017\job\job\src\job\fcfs.cpp
+	"../../headers/job/FCFS.h"
+	"../../headers/control.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1606649404 d:\c++projects\操作系统1017\job\job\headers\job\fcfs.h
+	"../global.h"
+
+1606824601 d:\c++projects\操作系统1017\job\job\headers\global.h
+
+1606658605 source:d:\c++projects\操作系统1017\job\job\src\global.cpp
+	<fstream>
+	<iostream>
+	"../headers/global.h"
+
+1606662950 d:\c++projects\操作系统1017\job\job\headers\job\sjf.h
+	"../global.h"
+
+1606823298 source:d:\c++projects\操作系统1017\job\job\src\job\sjf.cpp
+	"../../headers/job/SJF.h"
+	"../../headers/control.h"
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1606823300 source:d:\c++projects\操作系统1017\job\job\src\job\hrrf.cpp
+	"../../headers/job/HRRF.h"
+	"../../headers/control.h"
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1606820099 d:\c++projects\操作系统1017\job\job\headers\job\hrrf.h
+	"../global.h"
+
+1606823299 source:d:\c++projects\操作系统1017\job\job\src\job\hpf.cpp
+	"../../headers/job/HPF.h"
+	"../../headers/control.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1606820786 d:\c++projects\操作系统1017\job\job\headers\job\hpf.h
+	"../global.h"
+
+1606820870 d:\c++projects\操作系统1017\job\job\headers\job\rr.h
+	"../global.h"
+
+1606823300 source:d:\c++projects\操作系统1017\job\job\src\job\rr.cpp
+	"../../headers/job/RR.h"
+	"../../headers/control.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<memory.h>
+	<algorithm>
+	<vector>
+	<queue>
+

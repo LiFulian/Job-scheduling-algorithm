@@ -95,3 +95,40 @@
 	"FCFS.h"
 	<algorithm>
 
+1606633216 source:c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\fcfs.cpp
+	<iostream>
+	<vector>
+	"FCFS.h"
+	<algorithm>
+
+1606633216 c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\fcfs.h
+
+1606633216 source:c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\helloworld.cpp
+	"helloworld.h"
+	<iostream>
+
+1606633216 c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\helloworld.h
+
+1606633216 source:c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\main\main.cpp
+	<iostream>
+	"../menu.h"
+
+1606633216 c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\menu.h
+
+1606633216 source:c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\menu.cpp
+	<iostream>
+	"FCFS.h"
+	"SJF.h"
+
+1606633216 c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\sjf.h
+
+1606633216 source:c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\sjf.cpp
+	<iostream>
+	<vector>
+	"FCFS.h"
+	<algorithm>
+
+1606634672 source:c:\users\cuipro\desktop\操作系统\github\dyalgorithm\jobschedulingalgorithm\filestream.cpp
+	<iostream>
+	<fstream>
+
