@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="job" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/job" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/job" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="headers/control.h" />
+		<Unit filename="headers/global.h" />
+		<Unit filename="headers/job/FCFS.h" />
+		<Unit filename="headers/job/HPF.h" />
+		<Unit filename="headers/job/HRRF.h" />
+		<Unit filename="headers/job/RR.h" />
+		<Unit filename="headers/job/SJF.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/control.cpp" />
+		<Unit filename="src/global.cpp" />
+		<Unit filename="src/job/FCFS.cpp" />
+		<Unit filename="src/job/HPF.cpp" />
+		<Unit filename="src/job/HRRF.cpp" />
+		<Unit filename="src/job/RR.cpp" />
+		<Unit filename="src/job/SJF.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
